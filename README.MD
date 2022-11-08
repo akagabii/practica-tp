@@ -1,4 +1,2 @@
-# practica integradora
- 
- ## integrantes
- 1-Agustina Acosta
+## Colaboradores
+-Gabriel Tarelli
