@@ -1,0 +1,4 @@
+const anashei = {
+    manteca,
+    queso
+}
